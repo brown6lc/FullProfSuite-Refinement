@@ -3,6 +3,9 @@
 
 This repository contains a step-by-step guide for performing **Rietveld refinement** and **LeBail refinement** of X-ray diffraction (XRD) data using the **FullProf Suite**. The included documentation explains data preparation, PCR file generation, refinement configuration, and extraction of refined lattice parameters.
 
+The FullProf Suite software can be downloaded at this link:
+https://www.ill.eu/sites/fullprof/downloads.html
+
 ---
 
 ## 📁 Contents
