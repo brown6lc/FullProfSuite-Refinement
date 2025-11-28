@@ -57,13 +57,6 @@ The lattice constants and associated errors are listed there.
 
 ---
 
-## 📘 Recommended Use
 This guide is intended for students, researchers, and scientists working on powder XRD analysis and requires no prior experience with FullProf. It provides a complete workflow for both structural refinement and profile fitting.
 
----
 
-If you want, I can also generate:
-- A shorter “Quick Start” README  
-- A version with tables/images  
-- A GitHub-optimized README with badges and links  
-- A flowchart for the workflow
